@@ -98,6 +98,11 @@ if confirmed then
 LengkoAlert.ShowToast("Pembaruan sistem tersedia.", AlertIcon.Info, 3000)
 ```
 
+<img width="897" height="558" alt="image" src="https://github.com/user-attachments/assets/0621f896-1966-476a-8710-b205f08f2252" />
+<img width="884" height="522" alt="image" src="https://github.com/user-attachments/assets/4f7cddf2-a9ff-402a-a3d2-d023dd7d5ef9" />
+<img width="366" height="119" alt="image" src="https://github.com/user-attachments/assets/e926853d-8bc8-4309-a586-88a1ec7f7bd4" />
+
+
 ---
 
 ## License
